@@ -8,7 +8,7 @@ The card has a small prototyping area where we can solder some small components 
 
 I ordered the PCBs using JLCPCB and decided to go with white soldermask and black silkscreen for the letters on the top layer. 
 
-![](BusinessCard.png)
+![](BusinessCard.jpg)
 
 
 ## Future Scope
