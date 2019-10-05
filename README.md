@@ -13,6 +13,4 @@ I ordered the PCBs using JLCPCB and decided to go with white soldermask and blac
 
 ## Future Scope
 
-I might add a small type c to USB converter since the components are fairly cheap and i wont go broke while ordering a ton of 
-
-these.
+I might add a small type c to USB converter since the components are fairly cheap and i wont go broke while ordering a ton of these.
