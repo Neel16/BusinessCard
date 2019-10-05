@@ -10,7 +10,7 @@ It was designed in Eagle and I put all the information in white silkscreen on ma
 
 I added a little prototyping area on the right half.
 
-![](business_card_image.png)
+![](business_card.png)
 
 ## Placing a circuit on the board
 Ideally, the board would have a simple circuit or microprocessor dev board on it in the future.
