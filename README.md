@@ -1,27 +1,16 @@
-# BusinessCard
+# PCB business card.
 
-# PCB business card with a prototyping board on it. 
+I saw a friend make a business card on PCB once. I thought "What a great way to stand out". 
 
-I got old enough that people now expect me to give them a business card.
+So i asked him How i could go about designing one of my own. The designing software i used is Eagle by AutoDesk.
 
-It seemed boring to have just a regular business card so I decided to design a PCB one.
+The card has a small prototyping area where we can solder some small components to make a useful circuit. 
 
-It was designed in Eagle and I put all the information in white silkscreen on matt black soldermask.
+I ordered the PCBs using JLCPCB and decided to go with white soldermask and black silkscreen for the letters on the top layer. 
 
-I added a little prototyping area on the right half.
+![](BusinessCard.jpg)
 
-![](business_card.png)
 
-## Placing a circuit on the board
-Ideally, the board would have a simple circuit or microprocessor dev board on it in the future.
-I am still looking for something that will be simple enough that it won't make me go bankrupt after ordering 100pcs. A working circuit would be also more understandable for people who are not electronics geeks.
+## Future Scope
 
-## Some ideas for future versions
-- 5V to 3.3V converter (nice, because it's doable in all SMD parts)
-- op-amp dev board (nice, because it's cheap and useful)
-- FTDI UART to USB (useful but expensive)
-- Adafruit teensy board
-- USB hub 
-- TSSOP adapter
-- SMD proto board
-- micro SD card reader
+I might add a small type c to USB converter since the components are fairly cheap and i wont go broke while ordering a ton of these.
